@@ -1,2 +1,4 @@
 .idea/
 *.iml
+csv2xml-ui/target/
+csv2xml-core/target/

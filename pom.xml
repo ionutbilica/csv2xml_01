@@ -14,8 +14,8 @@
 
   <scm>
     <url>https://github.com/ionutbilica/csv2xml_01.git</url>
-    <connection>https://github.com/ionutbilica/csv2xml_01.git</connection>
-    <developerConnection>https://github.com/ionutbilica/csv2xml_01.git</developerConnection>
+    <connection>scm:git:git://github.com/ionutbilica/csv2xml_01.git</connection>
+    <developerConnection>scm:git:git@github.com:ionutbilica/csv2xml_01.git</developerConnection>
   </scm>
 
   <properties>
