@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <book>
+        <title>Moby Dick</title>
+        <author>Herman Melville</author>
+        <price>9.99</price>
+    </book>
+    <book>
+        <title>Robinson Crusoe</title>
+        <author>Daniel Defoe</author>
+        <price>5.49</price>
+    </book>
+</library>
