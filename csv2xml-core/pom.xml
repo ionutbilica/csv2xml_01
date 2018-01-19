@@ -4,7 +4,7 @@
   <parent>
     <groupId>ro.bilica.ionut.hs</groupId>
     <artifactId>csv2xml</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
   </parent>
   <artifactId>csv2xml-core</artifactId>
   <name>csv2xml-core</name>

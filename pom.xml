@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ro.bilica.ionut.hs</groupId>
   <artifactId>csv2xml</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>csv2xml</name>
   <packaging>pom</packaging>
 
@@ -16,7 +16,7 @@
     <url>https://github.com/ionutbilica/csv2xml_01.git</url>
     <connection>scm:git:https://github.com/ionutbilica/csv2xml_01.git</connection>
     <developerConnection>scm:git:https://github.com/ionutbilica/csv2xml_01.git</developerConnection>
-    <tag>csv2xml-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
