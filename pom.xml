@@ -7,16 +7,22 @@
   <name>csv2xml</name>
   <packaging>pom</packaging>
 
+  <modules>
+    <module>csv2xml-core</module>
+    <module>csv2xml-ui</module>
+  </modules>
+
+  <scm>
+    <url>https://github.com/ionutbilica/csv2xml_01.git</url>
+    <connection>https://github.com/ionutbilica/csv2xml_01.git</connection>
+    <developerConnection>https://github.com/ionutbilica/csv2xml_01.git</developerConnection>
+  </scm>
+
   <properties>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
-  <modules>
-    <module>csv2xml-core</module>
-    <module>csv2xml-ui</module>
-  </modules>
 
   <dependencyManagement>
     <dependencies>
